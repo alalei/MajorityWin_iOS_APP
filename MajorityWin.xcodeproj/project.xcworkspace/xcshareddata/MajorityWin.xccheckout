@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C535E713-8680-4BBF-B6E7-39F24711B30B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MajorityWin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F5176069-0DE1-4A4D-B6CB-68E6763644BE</key>
+		<string>https://github.com/alalei/MajorityWin_iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MajorityWin.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5822C11B-7BA0-4A82-983B-7C2C2DB24219</key>
+		<string>../../MajorityWin</string>
+		<key>F5176069-0DE1-4A4D-B6CB-68E6763644BE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alalei/MajorityWin_iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F5176069-0DE1-4A4D-B6CB-68E6763644BE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5822C11B-7BA0-4A82-983B-7C2C2DB24219</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MajorityWin</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F5176069-0DE1-4A4D-B6CB-68E6763644BE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MajorityWin_final_0501</string>
+		</dict>
+	</array>
+</dict>
+</plist>
